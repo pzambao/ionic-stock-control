@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "stock-control-a0d20": {
+      "hosting": {
+        "app": [
+          "stock-control-a0d20"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "stock-control-a0d20"
+  }
+}
