@@ -1,5 +1,7 @@
 {
   "name": "stock-control",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
